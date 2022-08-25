@@ -4,7 +4,6 @@
 # Wade
 - Finished all non stretch user stories. Currently working on stretch user stories (logging in)
 
-
 # Dillon
 - finishing frontend functionality for non-stretch user stories
 
